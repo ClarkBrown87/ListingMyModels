@@ -1,0 +1,10 @@
+.idea
+/venv
+/.venv
+/node_modules
+*.sqlite3
+__pycache__
+media
+htmlcov
+.coverage
+gl-code-quality-report.json
